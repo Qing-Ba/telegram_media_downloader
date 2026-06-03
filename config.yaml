@@ -1,5 +1,5 @@
-api_hash: your_api_hash
-api_id: your_api_id
+api_hash: a86c854cf2a7d68b8631d97e4b7352a8
+api_id: 31609903
 chat:
 - chat_id: telegram_chat_id
   last_read_message_id: 0
@@ -22,3 +22,4 @@ media_types:
 - video_note
 # in linux please use /
 # save_path: E:\github\telegram_media_downloader
+language: ZH
