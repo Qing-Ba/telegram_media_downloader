@@ -19,5 +19,5 @@ media_types:
 - voice
 - video_note
 # in linux please use /
-# save_path: C:\Users\a1172\Downloads\File\tdl\Downloads
+save_path: /etc/secrets/
 language: ZH
