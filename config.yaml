@@ -1,8 +1,6 @@
 api_hash: a86c854cf2a7d68b8631d97e4b7352a8
 api_id: 31609903
-chat:
-- chat_id: -1003316561468
-  last_read_message_id: 0
+bot_token: 8850071470:AAF-q8gZylC9mIG6pJ-plMxY2fo0o4ic7Yk
 file_formats:
   audio:
   - all
@@ -21,5 +19,5 @@ media_types:
 - voice
 - video_note
 # in linux please use /
-save_path: /docker/tg-downloader/
+# save_path: C:\Users\a1172\Downloads\File\tdl\Downloads
 language: ZH
